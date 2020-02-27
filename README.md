@@ -1,2 +1,4 @@
 # test
-kurs matrix
+kurs matrix, projekt transformacja
+
+1. zakladanie konta w githubie
